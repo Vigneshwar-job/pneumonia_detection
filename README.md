@@ -26,10 +26,9 @@ This project uses machine learning and deep learning models to detect **Lung Can
 
 ## 📊 Dataset
 
-> **Note**: Data is not included in the repo due to size constraints. However you can find it here : 
+> **Note**: Data is not included in the repo due to internship and privacy. However you can find it here : 
 
-- [Lung Cancer Dataset (CSV or Image)](https://www.kaggle.com/datasets)
-- [Chest X-Ray Images (Pneumonia)](https://www.kaggle.com/paultimothymooney/chest-xray-pneumonia)
+- [Adovi_Training]([https://www.kaggle.com/datasets](https://github.com/Adaovi/Training---Nov))
 
 Place your dataset inside the `data/` folder and adjust the paths in the notebook if necessary.
 
